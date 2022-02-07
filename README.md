@@ -5,4 +5,7 @@
 ```
 git clone git@github.com:kaylagordon/git-practice-2201.git
 ```
-2. Check out our amazing README
+2. Open README and review documentation
+```
+open README.md
+```
